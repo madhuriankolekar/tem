@@ -1,0 +1,2 @@
+
+5b00dc738d3038485936efa615ec569696f211da	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz","integrity":null,"time":1705601407588,"size":"0","metadata":{"time":1705601407588,"url":"http://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Thu, 18 Jan 2024 18:10:07 GMT","location":"https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
